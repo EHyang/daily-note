@@ -89,6 +89,7 @@ const taskObj = {
 [참고]
 - `lib/workers/SomeThing/Somthing_worker.js` 파일 생성시
   worker 이름은 `SomeThing_Somthing`가 됨.
+  - `lib/redis/task/task-runner.js` - `getWorkerInfo` 참고
 
 3. Serverless 호출
 
